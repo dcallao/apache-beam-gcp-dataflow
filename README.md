@@ -22,5 +22,3 @@ python main.py \
 --temp_location gs://<google-cloud-storage-bucket>/temp \
 --setup_file setup.py
 ```
-
-For detailed instruction, read this article - https://medium.com/@rajeshhegde/data-pipeline-using-apache-beam-python-sdk-on-dataflow-6bb8550bf366
